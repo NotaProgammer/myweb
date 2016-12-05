@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ttest:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ttest-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ttest:war exploded" />
+    </root>
+  </artifact>
+</component>
